@@ -21,6 +21,7 @@
     <actionOverrides>
         <actionName>CancelEdit</actionName>
         <formFactor>Large</formFactor>
+        
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
